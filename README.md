@@ -7,9 +7,9 @@ The system uses:
 - This is a deterministic rule-based system, not an LLM-based classifier.
 
 ## Project Structure
-├── AI_Engineer_Febriyeni Susi_Soji.ipynb
-├── report.md
-└── README.md
+- AI_Engineer_Febriyeni Susi_Soji.ipynb
+- report.md
+- README.md
 
 ## Install Dependencies
 Run this in a notebook cell:
